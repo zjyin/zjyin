@@ -18,5 +18,5 @@ permalink: /teaching/
 
 <span style="font-family:Papyrus; font-size:1.2em;">**Note**: Here you will find a mindmap of the majority of the materials that were covered in Spring 2020. We plan to introduce more healthcare related applications in Spring 2021. Please stay tuned.</span>
 
-[![Mindmap of MLNLP4Healthcare]({{ site.baseurl }}/images/Syllabus_MLNLP4Health.jpg "Click for large view")](/images/Syllabus_MLNLP4Health.jpg){:target="_blank"}
+[![Mindmap of MLNLP4Healthcare]({{ site.baseurl }}/images/Syllabus_MLNLP4Health.jpg "Click for large view")]({{ site.baseurl }}/images/Syllabus_MLNLP4Health.jpg){:target="_blank"}
 <div align="center"><span style="font-family:Papyrus; font-size:1.1em;">Click for large view. :-)</span></div>
