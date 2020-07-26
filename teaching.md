@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 <span style="font-family:Papyrus; font-size:1.5em; text-align:center;">Special Topic:</span> 
-<span style="font-family:Papyrus; font-size:1.3em; text-align:center;">BMIF-6390/CS-5891/CS-3891</span>
+<span style="font-family:Papyrus; font-size:1.4em; text-align:center;">BMIF-6390/CS-5891/CS-3891</span>
 <span style="font-family:Papyrus; font-size:1.2em;"><br>Machine Learning and Natural Language Processing for Healthcare</span>
 
 - <span style="font-family:Papyrus; font-size:1.1em;">Instructor: Zhijun Yin, MS, PhD</span>
