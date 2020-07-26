@@ -30,6 +30,6 @@ layout: home
 
 - <span style="font-family:Papyrus; font-size:1.1em;">03/2019, Dr. Yin gave a workshop of “Introduction to Natural Language Processing”, in Vanderbilt Genetics Institute, at Vanderbilt University</span>
 
-<span style="font-family:Papyrus; font-size:1.1em; text-align:center"> ... a  year of silient reading, writing, and thinking :-) ...</span>
+<span style="font-family:Papyrus; font-size:1.1em; text-align:center"> ... a  year of silient writing, thinking and waiting :-) ...</span>
 
 - <span style="font-family:Papyrus; font-size:1.1em;">03/2018, Dr. Yin joined in deparment of biomedical informatics at Vanderbilt University Medical Center as a tenure-track assistant professor, after graduation from Vanderbilt University with a PhD degree of computer science (Advised by [Dr. Bradley Malin](https://www.vumc.org/dbmi/person/bradley-malin-phd-facmi))</span>
