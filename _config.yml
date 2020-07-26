@@ -16,7 +16,7 @@
 title: "#SPHERE Lab"
 email: zhijun.yin@vanderbilt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-Social Computing for Health and Well-being Research Laboratory
+  Social Computing for Health and Well-being Research Laboratory
 baseurl: "/spherelab" # the subpath of your site, e.g. /blog
 url: "https://zjyin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
