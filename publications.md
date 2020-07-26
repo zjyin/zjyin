@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+<!----------- Selected Journal Papers ----------->
+
 <span style="font-family:Papyrus; font-size:1.5em;"> Selected Journal Papers</span>
 
 <span style="font-family:Papyrus; font-size:1.2em;">[J6] [Electronic Health Record Phenotypes Associated With Genetically Regulated Expression of CFTR and Application to Cystic Fibrosis](https://www.nature.com/articles/s41436-020-0786-5)</span>
@@ -14,7 +16,6 @@ permalink: /publications/
 <span style="font-family:Papyrus; font-size:1.2em;">[J5] [Understanding Weight Loss via Online Discussions: Content Analysis of Reddit Posts Using Topic Modeling and Word Clustering Techniques](https://www.jmir.org/2020/6/e13745/)</span>
 > Yang Liu, Zhijun Yin
 > <br>Journal of Medical Internet Research (JMIR). 2020;22(6):e13745. (Impact Factor: 5.030)
-
 
 <span style="font-family:Papyrus; font-size:1.2em;">[J4] [A Systematic Literature Review of Machine Learning in Online Personal Health Data](https://academic.oup.com/jamia/article/26/6/561/5419782)</span>
 > Zhijun Yin, Lina Sulieman, and Bradley Malin
@@ -32,8 +33,9 @@ permalink: /publications/
 > Zhijun Yin, Daniel Fabbri, S. Trent Rosenbloom, and Bradley Malin
 > <br>Journal of Medical Internet Research (JMIR), 2015;17:e138. (Impact Factor: 5.030)
 
-<span style="font-family:Papyrus; font-size:1.5em;"><br>Selected Conference Papers</span>
+<!----------- Selected Conference Papers ----------->
 
+<span style="font-family:Papyrus; font-size:1.5em;"><br>Selected Conference Papers</span>
 
 <span style="font-family:Papyrus; font-size:1.2em;">[C10] [Biomedical Research Cohort Membership Disclosure on Social Media](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153128/)</span>
 > Yongtai Liu, Chao Yan, Zhijun Yin, ZhiyuWan,Weiyi Xia, Murat Kantarcioglu, Yevgeniy Vorobeychik, Ellen Clayton, and Bradley Malin
@@ -76,6 +78,15 @@ from Online Breast Cancer Forum](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/pa
 > Amanda Hicks, William Hogan, Michael Rutherford, Bradley Malin, Mengjun Xie, Christiane Fellbaum, Zhijun Yin, Daniel Fabbri, Josh Hanna, and Jiang Bian
 > <br>in Proceedings of the 2015 American Medical Informatics Association Annual Symposium (AMIA), pp. 611-620, San Francisco, November 2016
 
+<!----------- Book Chapter ----------->
+
+<span style="font-family:Papyrus; font-size:1.5em;"><br>Book Chapter</span>
+
+<span style="font-family:Papyrus; font-size:1.2em;">[B1] [Learning Hormonal Therapy Medication Adherence From an Online Breast Cancer Forum](https://link.springer.com/chapter/10.1007/978-3-030-14714-3_12)</span>
+> Zhijun Yin, Jeremy Warner, Lijun Song, Pei-Yun Hsueh, Ching-Hua Chen, Bradley Malin
+> <br>in Social Web and Health Research, pp. 233-257, Springer, Cham, 2019
+
+<!----------- Papers Under Review ----------->
 
 <span style="font-family:Papyrus; font-size:1.5em;"><br>Papers Under Review</span>
 
@@ -86,10 +97,3 @@ from Online Breast Cancer Forum](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/pa
 <span style="font-family:Papyrus; font-size:1.2em;">[JS1] A Content Analysis of What Users Say About Direct-To-Consumer Genetic Testing from Social Media</span>
 > Zhijun Yin, Lijun Song, Ellen Clayton, and Bradley Malin
 > <br>submitted to PLOS One. February, 2020
-
-
-<span style="font-family:Papyrus; font-size:1.5em;"><br>Book Chapter</span>
-
-<span style="font-family:Papyrus; font-size:1.2em;">[B1] [Learning Hormonal Therapy Medication Adherence From an Online Breast Cancer Forum](https://link.springer.com/chapter/10.1007/978-3-030-14714-3_12)</span>
-> Zhijun Yin, Jeremy Warner, Lijun Song, Pei-Yun Hsueh, Ching-Hua Chen, Bradley Malin
-> <br>in Social Web and Health Research, pp. 233-257, Springer, Cham, 2019
