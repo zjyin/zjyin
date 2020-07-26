@@ -11,6 +11,7 @@ permalink: /team/
 <span style="font-family:Papyrus; font-size:1.1em;"><br>Vanderbilt University Medical Center</span>
 <span style="font-family:Papyrus; font-size:1.1em;"><br>2525 West End Ave. Suite 1475, Nashville, TN, 37203</span>
 <span style="font-family:Papyrus; font-size:1.1em;"><br>Email: zhijun.yin [AT] vanderbilt.edu</span>
+<span style="font-family:Papyrus; font-size:1.1em;"><br>[[Google Scholor]](https://scholar.google.com/citations?user=6-3JvK8AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/zjyin/) </span>
 
 <span style="font-family:Papyrus; font-size:1.2em;"> Education</span>
 - <span style="font-family:Papyrus; font-size:1.1em;">PhD in Computer Science (Advisor, [Dr. Bradley Malin](https://hiplab.mc.vanderbilt.edu/people/malin/)), Vanderbilt University, 2018</span>
