@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<span style="font-family:Papyrus; font-size:1.1em;"> ... The Website is still under construction/update, please stay tuned ... </span>
+<span style="font-family:Papyrus; font-size:1.1em;"> ... Hi! Welcome to #Sphere Labe! The Website is still under construction/update, please stay tuned ... </span>
 
 
 <span style="font-family:Papyrus; font-size:1.5em;"> News </span>
@@ -13,7 +13,7 @@ layout: home
 - <span style="font-family:Papyrus; font-size:1.1em;">07/2020, Our lab website became online during COVID-19 quarantine. Keep safe!</span>
 
 
-- <span style="font-family:Papyrus; font-size:1.1em;">06/2020, Welcome Hughes Jonathan to join the lab as DBMI summer research interns</span>
+- <span style="font-family:Papyrus; font-size:1.1em;">06/2020, Welcome Hughes Jonathan to join the lab as a DBMI summer research intern</span>
 
 - <span style="font-family:Papyrus; font-size:1.1em;">05/2020, We received R37 MERIT award ($1.56M) from NCI</span>
 
