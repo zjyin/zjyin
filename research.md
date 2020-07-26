@@ -6,7 +6,7 @@ permalink: /research/
 
 <span style="font-family:Papyrus; font-size:1.5em;">  Active Grants </span>
 
-<span style="font-family:Papyrus; font-size:1.2em;"> [R37 CA237452-01A1](https://projectreporter.nih.gov/project_info_description.cfm?aid=9954467&icde=50991416&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=) (NCI, Pinciple Investigator)</span>
+<span style="font-family:Papyrus; font-size:1.2em;"> [R37 CA237452-01A1](https://projectreporter.nih.gov/project_info_description.cfm?aid=9954467&icde=50991416&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=) (NCI, Principal Investigator)</span>
 <span style="font-family:Papyrus; font-size:1.2em;"><br>Title: Prediction of Anti-Cancer Medication Discontinuation via Patient Portal Messages and Structured Electronic Medical Records</span>
 <span style="font-family:Papyrus; font-size:1.2em;"><br>Period: 05/01/2020 – 04/30/2024</span>
 > Note that R37 is the Method to Extend Research in Time ([MERIT](https://www.cancer.gov/grants-training/grants-funding/funding-opportunities/merit)) 
