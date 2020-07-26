@@ -19,7 +19,7 @@ permalink: /team/
 - <span style="font-family:Papyrus; font-size:1.0em;">BE in Computer Science and Technology, Beijing University of Posts and Telecommunications, 2009</span>
 
 <span style="font-family:Papyrus; font-size:1.2em;">Teaching</span>
-<span style="font-family:Papyrus; font-size:1.0em;"><br>CS3891/CS5891/BMIF 6390, [Machine Learning and Natural Language Processing for Healthcare](/teaching/)</span>
+<span style="font-family:Papyrus; font-size:1.0em;"><br>CS3891/CS5891/BMIF 6390, [Machine Learning and Natural Language Processing for Healthcare]({{ site.baseurl }}/teaching/)</span>
 <span style="font-family:Papyrus; font-size:1.0em;"><br>Vanderbilt University, Spring 2020</span>
 
 

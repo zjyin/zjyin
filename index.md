@@ -23,7 +23,7 @@ layout: home
 
 - <span style="font-family:Papyrus; font-size:1.1em;">01/2020, Dr. Yin opened a [new course](/teaching/) for students of biomedical informatics or computer science</span>
 
-- <span style="font-family:Papyrus; font-size:1.1em;">01/2020, Welcome [Congning Ni](/team/) to join the lab as a PhD student (Computer Science)</span>
+- <span style="font-family:Papyrus; font-size:1.1em;">01/2020, Welcome [Congning Ni]({{ site.baseurl }}/team/) to join the lab as a PhD student (Computer Science)</span>
  
 - <span style="font-family:Papyrus; font-size:1.1em;">05/2019, Welcome [Michael Kaltman](https://www.linkedin.com/in/michaelskaltman/) and [Sikta Swarnav Das](https://www.linkedin.com/in/sikta-das-4925b4159/) to join the lab as DBMI summer research interns</span>
 
