@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 <span style="font-family:Papyrus; font-size:1.5em;">Machine Learning and Natural Language Processing for Healthcare</span>
-<span style="font-family:Papyrus; font-size:1.3em; text-align:center;">(BMIF 6390 / CS 5891 / CS 3891)</span>
+<span style="font-family:Papyrus; font-size:1.2em; text-align:center;">(BMIF 6390 / CS 5891 / CS 3891)</span>
 - <span style="font-family:Papyrus; font-size:1.1em;">Instructor: Zhijun Yin, MS, PhD</span>
 - <span style="font-family:Papyrus; font-size:1.1em;">Semester: Spring 2020</span>
 - <span style="font-family:Papyrus; font-size:1.1em;">Time: Tuesday and Thursday, 11:00AM - 12:15PM</span>
