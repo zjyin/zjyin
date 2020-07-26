@@ -41,7 +41,7 @@ permalink: /publications/
 > Yongtai Liu, Chao Yan, Zhijun Yin, ZhiyuWan,Weiyi Xia, Murat Kantarcioglu, Yevgeniy Vorobeychik, Ellen Clayton, and Bradley Malin
 > <br>in Proceedings of the 2019 American Medical Informatics Association Annual Symposium (AMIA), pp. 607-616, Washington DC, November 2019
 
-<span style="font-family:Papyrus; font-size:1.2m;">[C9] [Why Patient Portal Messages Indicate Risk of Readmission for Patients with Ischemic Heart Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153079/)</span>
+<span style="font-family:Papyrus; font-size:1.2em;">[C9] [Why Patient Portal Messages Indicate Risk of Readmission for Patients with Ischemic Heart Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153079/)</span>
 > Lina Sulieman, Zhijun Yin, and Malin Bradley
 > <br>in Proceedings of the 2019 American Medical Informatics Association Annual Symposium (AMIA), pp.828-837,Washington DC, November 2019
 
