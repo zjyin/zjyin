@@ -38,4 +38,4 @@ permalink: /about/
 > solve the challenges in this exciting research area. 
 
 
-<span style="font-family:Papyrus; font-size:1.2em;"> Please feel free to send email to zhijun.yin [AT] vanderbilt.edu if you are interested in our research or want to join us.</span>
+<span style="font-family:Papyrus; font-size:1.2em;"> Please feel free to send email to zhijun.yin [AT] vanderbilt.edu if you are interested in our research and want to join us through vanderbilt computer science or biomedical informatics graduate program.</span>
