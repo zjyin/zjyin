@@ -13,7 +13,7 @@ permalink: /team/
 <span style="font-family:Papyrus; font-size:1.0em;"><br>Email: zhijun.yin [AT] vanderbilt.edu</span>
 
 <span style="font-family:Papyrus; font-size:1.2em;"> Education</span>
-- <span style="font-family:Papyrus; font-size:1.0em;">PhD in Computer Science (Advisor, [Bradley Malin](https://hiplab.mc.vanderbilt.edu/people/malin/)), Vanderbilt University, 2018</span>
+- <span style="font-family:Papyrus; font-size:1.0em;">PhD in Computer Science (Advisor, [Dr. Bradley Malin](https://hiplab.mc.vanderbilt.edu/people/malin/)), Vanderbilt University, 2018</span>
 - <span style="font-family:Papyrus; font-size:1.0em;">MS in Biostatistics, Vanderbilt University, 2017</span>
 - <span style="font-family:Papyrus; font-size:1.0em;">ME in Computer Science and Technology, Beijing University of Posts and Telecommunications, 2012</span>
 - <span style="font-family:Papyrus; font-size:1.0em;">BE in Computer Science and Technology, Beijing University of Posts and Telecommunications, 2009</span>
