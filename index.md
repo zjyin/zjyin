@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<span style="font-family:Papyrus; font-size:1.1em;"> ... Hi! Welcome to #Sphere Lab at Vanderbilt University! The Website is still under construction/update, please stay tuned ... </span>
+<span style="font-family:Papyrus; font-size:1.1em;"> ... Hi! Welcome to #SPHERE Lab at Vanderbilt University! The Website is still under construction/update, please stay tuned ... </span>
 
 
 <span style="font-family:Papyrus; font-size:1.5em;"> News </span>
