@@ -77,7 +77,7 @@ from Online Breast Cancer Forum](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/pa
 > <br>in Proceedings of the 2015 American Medical Informatics Association Annual Symposium (AMIA), pp. 611-620, San Francisco, November 2016
 
 
-<span style="font-family:Papyrus; font-size:1.5em;"><br>Under Review Papers</span>
+<span style="font-family:Papyrus; font-size:1.5em;"><br>Papers Under Review</span>
 
 <span style="font-family:Papyrus; font-size:1.2em;">[JS2] The Contribution of Free Text Comments to the Burden of Documentation: An Assessment and Analysis of Vital Signs Comments in Flowsheets</span>
 > Zhijun Yin, Yongtai Liu, Allison McCoy, Bradley Malin, Patricia Sengstack
