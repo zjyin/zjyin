@@ -15,7 +15,7 @@ layout: home
 
 - <span style="font-family:Papyrus; font-size:1.1em;">06/2020, Welcome Hughes Jonathan to join the lab as a DBMI summer research intern</span>
 
-- <span style="font-family:Papyrus; font-size:1.1em;">05/2020, We received R37 MERIT award ($1.56M) from NCI. Hooray!</span>
+- <span style="font-family:Papyrus; font-size:1.1em;">05/2020, We received [R37 MERIT award ($1.56M) from NCI](https://news.vumc.org/2020/05/14/yin-receives-early-investigator-merit-award-from-nci/). Hooray!</span>
 
 - <span style="font-family:Papyrus; font-size:1.1em;">05/2020, We had a [paper](https://www.jmir.org/2020/6/e13745/) accepted by Journal of Medical Internet Research</span>
 
