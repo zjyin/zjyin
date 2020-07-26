@@ -32,4 +32,4 @@ layout: home
 
 <span style="font-family:Papyrus; font-size:1.1em; text-align:center"> ... a  year of silent writing, thinking and waiting :-) ...</span>
 
-- <span style="font-family:Papyrus; font-size:1.1em;">03/2018, Dr. Yin joined in department of biomedical informatics at Vanderbilt University Medical Center as a tenure-track Assistant Professor, after graduation from Vanderbilt University with a PhD degree of computer science (Advised by [Dr. Bradley Malin](https://www.vumc.org/dbmi/person/bradley-malin-phd-facmi))</span>
+- <span style="font-family:Papyrus; font-size:1.1em;">03/2018, Dr. Yin joined in department of biomedical informatics at Vanderbilt University Medical Center as a tenure-track [Assistant Professor](https://www.vumc.org/dbmi/person/zhijun-yin), after graduation from Vanderbilt University with a PhD degree of computer science (Advised by [Dr. Bradley Malin](https://www.vumc.org/dbmi/person/bradley-malin-phd-facmi))</span>
