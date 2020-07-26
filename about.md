@@ -23,7 +23,7 @@ permalink: /about/
 <!--- <span style="font-family:Papyrus; font-size:1.2em;"> Aim </span> --->
 > We aim to apply computational methods on the data that reside within/beyond traditional electronic health records to tell stories that 
 > have strong implications for health-related behaviors, outcomes and policies. We will study the extent to which social/peer/
-> professional support, as well as information system/device/technology, influences health and well-being in a long-term, dynamic, and 
+> professional support, as well as information system/technology, influences health and well-being in a long-term, dynamic, and 
 > collective fashion. 
 
 <!-- 
