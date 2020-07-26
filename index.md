@@ -15,7 +15,7 @@ layout: home
 
 - <span style="font-family:Papyrus; font-size:1.1em;">06/2020, Welcome Hughes Jonathan to join the lab as a DBMI summer research intern</span>
 
-- <span style="font-family:Papyrus; font-size:1.1em;">05/2020, We received R37 MERIT award ($1.56M) from NCI</span>
+- <span style="font-family:Papyrus; font-size:1.1em;">05/2020, We received R37 MERIT award ($1.56M) from NCI. Hooray!</span>
 
 - <span style="font-family:Papyrus; font-size:1.1em;">05/2020, We had a [paper](https://www.jmir.org/2020/6/e13745/) accepted by Journal of Medical Internet Research</span>
 
@@ -30,6 +30,6 @@ layout: home
 
 - <span style="font-family:Papyrus; font-size:1.1em;">03/2019, Dr. Yin gave a workshop of “Introduction to Natural Language Processing”, in Vanderbilt Genetics Institute, at Vanderbilt University</span>
 
-<span style="font-family:Papyrus; font-size:1.1em; text-align:center"> ... a  year of silient reading, writing, and thinking :-) ...</span>
+<span style="font-family:Papyrus; font-size:1.1em; text-align:center"> ... a  year of silient reading, writing, and thinking :) ...</span>
 
 - <span style="font-family:Papyrus; font-size:1.1em;">03/2018, Dr. Yin joined in deparment of biomedical informatics at Vanderbilt University Medical Center as a tenure-track assistant professor, after graduation from Vanderbilt University with a PhD degree of computer science (Advised by [Dr. Bradley Malin](https://www.vumc.org/dbmi/person/bradley-malin-phd-facmi))</span>
