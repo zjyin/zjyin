@@ -12,7 +12,7 @@ order: 1
 
 <!--- <span style="font-family:Papyrus; font-size:1.2em;"> Who We Are </span> --->
 > We are a research group in Department of Biomedical Informatics ([DBMI](https://www.vumc.org/dbmi/)) at Vanderbilt University Medical 
-> Center. We are affiated with Health Information Privacy Laboratory ([HIPLab](https://hiplab.mc.vanderbilt.edu)), the Vanderbilt HEAlth 
+> Center, affiated with the Health Information Privacy Laboratory ([HIPLab](https://hiplab.mc.vanderbilt.edu)), the Vanderbilt HEAlth 
 > Data Science Center ([HEADS](https://www.vumc.org/heads)), and the Center for 
 > Genetic Privacy and Identity in Community Settings ([GetPreCise](https://www.vumc.org/getprecise/)). 
 
@@ -35,9 +35,11 @@ order: 1
 > system/device/technology, influences health and well-being in a long-term, dynamic, and collective fashion. 
 -->
 
-<!--- <span style="font-family:Papyrus; font-size:1.2em;"> Collaboration </span> --->
+<!--- <span style="font-family:Papyrus; font-size:1.2em;"> Collaboration </span> 
 > We are collaborating researchers from computer science, biomedical informatics, biostatistics, medicine, genetics, and sociology to 
 > solve the challenges in this exciting research area. 
+
+--->
 
 
 <span style="font-family:Papyrus; font-size:1.2em;"> Please feel free to send email to zhijun.yin [AT] vanderbilt.edu if you are interested in our research and want to join us through vanderbilt computer science or biomedical informatics graduate program.</span>
