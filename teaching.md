@@ -22,3 +22,13 @@ permalink: /teaching/
 
 [![Mindmap of MLNLP4Healthcare]({{ site.baseurl }}/images/Syllabus_MLNLP4Health.jpg "Click for large view")]({{ site.baseurl }}/images/Syllabus_MLNLP4Health.jpg){:target="_blank"}
 <div align="center"><span style="font-family:Papyrus; font-size:1.1em;">Click for large view. :-)</span></div>
+
+<!--
+<span style="font-family:Papyrus; font-size:1.5em; text-align:center;">Course Schedule:</span>
+
+<span style="font-family:Papyrus; font-size:1.2em; text-align:center;">Week 1: Machine Learning Review</span>
+> [Tuesday] 1. course introduction: objective, content, assessment, homework, reading materials, and final project; 2. categories of machine learning; machine learning pipeline for supervised learning: 
+
+> [Thursday]
+
+-->

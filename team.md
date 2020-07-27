@@ -24,7 +24,6 @@ permalink: /team/
 <span style="font-family:Papyrus; font-size:1.1em;"><br>Vanderbilt University, Spring 2020</span>
 
 
-
 <span style="font-family:Papyrus; font-size:1.5em;"><br>PhD Student</span>
 
 <span style="font-family:Monaco; font-size:1.3em;">Congning Ni, ME</span>
