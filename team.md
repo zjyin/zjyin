@@ -2,6 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
+order: 5
 ---
 
 <span style="font-family:Papyrus; font-size:1.5em;"> Faculty</span>

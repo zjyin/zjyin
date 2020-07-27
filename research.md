@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+order: 2
 ---
 
 <span style="font-family:Papyrus; font-size:1.5em;">  Active Grants </span>

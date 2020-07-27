@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 1
 ---
 <!-- 
 ![#Sphere Lab](/images/lab_logo.png){:height="75%" width="75%"}

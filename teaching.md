@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+order: 4
 ---
 
 <span style="font-family:Papyrus; font-size:1.5em; text-align:center;">Special Topic:</span> 
