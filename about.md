@@ -12,7 +12,8 @@ order: 1
 
 <!--- <span style="font-family:Papyrus; font-size:1.2em;"> Who We Are </span> --->
 > We are a research group in Department of Biomedical Informatics ([DBMI](https://www.vumc.org/dbmi/)) at Vanderbilt University Medical 
-> Center. We are affiated with the Vanderbilt HEAlth Data Science Center ([HEADS](https://www.vumc.org/heads)), and the Center for 
+> Center. We are affiated with Health Information Privacy Laboratory ([HIPLab](https://hiplab.mc.vanderbilt.edu)), the Vanderbilt HEAlth 
+> Data Science Center ([HEADS](https://www.vumc.org/heads)), and the Center for 
 > Genetic Privacy and Identity in Community Settings ([GetPreCise](https://www.vumc.org/getprecise/)). 
 
 <!--- <span style="font-family:Papyrus; font-size:1.2em;"> Motivation </span> --->
