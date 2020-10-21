@@ -10,7 +10,7 @@ order: 2
 <span style="font-family:Papyrus; font-size:1.2em;"> [R37 CA237452-01A1](https://projectreporter.nih.gov/project_info_description.cfm?aid=9954467&icde=50991416&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=) (NCI, Principal Investigator)</span>
 <span style="font-family:Papyrus; font-size:1.2em;"><br>Title: Prediction of Anti-Cancer Medication Discontinuation via Patient Portal Messages and Structured Electronic Medical Records</span>
 <span style="font-family:Papyrus; font-size:1.2em;"><br>Period: 05/01/2020 – 04/30/2024</span>
-> Note that R37 is the Method to Extend Research in Time ([MERIT](https://www.cancer.gov/grants-training/grants-funding/funding-opportunities/merit)) 
+> R37 is the Method to Extend Research in Time ([MERIT](https://www.cancer.gov/grants-training/grants-funding/funding-opportunities/merit)) 
 >Award provides longer term grant support to Early Stage Investigators (ESIs). Only ESI R01 applications that receive a score within the 
 > NCI payline for experienced and new investigators are eligible for consideration to be converted to an ESI MERIT Award if all PIs have ESI status at the time of award.
 
