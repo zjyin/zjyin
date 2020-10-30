@@ -9,7 +9,7 @@ order: 3
 
 <span style="font-family:Papyrus; font-size:1.5em;"> Selected Journal Papers</span>
 
-<span style="font-family:Candara; font-size:1.2em;">[J7] [Health and Kinship Matter: Learning About Direct-To-Consumer Genetic Testing User Experiences via Online Discussions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238644)</span>
+<span style="font-family:Papyrus; font-size:1.2em;">[J7] [Health and Kinship Matter: Learning About Direct-To-Consumer Genetic Testing User Experiences via Online Discussions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238644)</span>
 > Zhijun Yin, Lijun Song,Ellen W. Clayton,Bradley A. Malin
 > <br>PLOS ONE. PLoS ONE 15(9): e0238644.(Impact Factor: 2.870)
 
