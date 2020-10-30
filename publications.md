@@ -9,7 +9,7 @@ order: 3
 
 <span style="font-family:Papyrus; font-size:1.5em;"> Selected Journal Papers</span>
 
-<span style="font-family:Papyrus; font-size:1.2em;">[J6] [Health and Kinship Matter: Learning About Direct-To-Consumer Genetic Testing User Experiences via Online Discussions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238644)</span>
+<span style="font-family:Candara; font-size:1.2em;">[J7] [Health and Kinship Matter: Learning About Direct-To-Consumer Genetic Testing User Experiences via Online Discussions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238644)</span>
 > Zhijun Yin, Lijun Song,Ellen W. Clayton,Bradley A. Malin
 > <br>PLOS ONE. PLoS ONE 15(9): e0238644.(Impact Factor: 2.870)
 
@@ -98,7 +98,3 @@ from Online Breast Cancer Forum](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/pa
 <span style="font-family:Papyrus; font-size:1.2em;">[JS2] The Contribution of Free Text Comments to the Burden of Documentation: An Assessment and Analysis of Vital Signs Comments in Flowsheets</span>
 > Zhijun Yin, Yongtai Liu, Allison McCoy, Bradley Malin, Patricia Sengstack
 > <br>submitted to JMIR. July, 2020
-
-<span style="font-family:Papyrus; font-size:1.2em;">[JS1] A Content Analysis of What Users Say About Direct-To-Consumer Genetic Testing from Social Media</span>
-> Zhijun Yin, Lijun Song, Ellen Clayton, and Bradley Malin
-> <br>submitted to PLOS One. February, 2020
