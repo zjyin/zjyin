@@ -26,8 +26,8 @@ order: 3
 > Zhijun Yin, Lina Sulieman, and Bradley Malin
 > <br>Journal of the American Medical Informatics Association (JAMIA), 2019. 1;26(6):561-576. (Impact Factor: 4.112)
 
-<span style="font-family:Papyrus; font-size:1.2em;">[J3] [The therapy is making me sick: how online portal communications between breast cancer patients and physicians indicate medication discontinuation](https://academic.oup.com/jamia/article/25/11/1444/5149329)</span>
-> Zhijun Yin, Morgan Harrell, JeremyWarner, Qingxia Chen, Daniel Fabbri, and Bradley Malin
+<span style="font-family:Papyrus; font-size:1.2em;">[J3] [The Therapy is Making Me Sick: How Online Portal Communications Between Breast Cancer Patients and Physicians Indicate Medication Discontinuation](https://academic.oup.com/jamia/article/25/11/1444/5149329)</span>
+> Zhijun Yin, Morgan Harrell, Jeremy Warner, Qingxia Chen, Daniel Fabbri, and Bradley Malin
 > <br>Journal of the American Medical Informatics Association (JAMIA), 2018. 25 (11): 1444-1451. (Impact Factor: 4.112)
 
 <span style="font-family:Papyrus; font-size:1.2em;">[J2] [It's All in the Timing: Calibrating Temporal Penalties for Biomedical Data Sharing](https://academic.oup.com/jamia/article-abstract/25/1/25/4222812)</span>
