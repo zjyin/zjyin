@@ -97,4 +97,4 @@ from Online Breast Cancer Forum](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/pa
 
 <span style="font-family:Papyrus; font-size:1.2em;">[JS1] The Contribution of Free Text Comments to the Burden of Documentation: An Assessment and Analysis of Vital Signs Comments in Flowsheets</span>
 > Zhijun Yin, Yongtai Liu, Allison McCoy, Bradley Malin, Patricia Sengstack
-> <br>submitted to JMIR, in second-round review, October, 2020
+> <br>submitted to JMIR, under second-round review, October, 2020
