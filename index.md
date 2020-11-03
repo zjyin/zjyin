@@ -10,6 +10,8 @@ layout: home
 
 <span style="font-family:Papyrus; font-size:1.5em;"> News </span>
 
+- <span style="font-family:Papyrus; font-size:1.1em;">09/2020, We had a [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238644/) accepted by PLoS ONE</span>
+
 - <span style="font-family:Papyrus; font-size:1.1em;">07/2020, Our lab website became online during COVID-19 quarantine. Keep safe!</span>
 
 - <span style="font-family:Papyrus; font-size:1.1em;">06/2020, Welcome Hughes Jonathan to join the lab as a DBMI summer research intern</span>
