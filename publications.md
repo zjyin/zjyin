@@ -9,6 +9,11 @@ order: 3
 
 <span style="font-family:Papyrus; font-size:1.5em;"> Selected Journal Papers</span>
 
+
+<span style="font-family:Papyrus; font-size:1.2em;">[J8] [Contribution of Free-Text Comments to the Burden of Documentation: Assessment and Analysis of Vital Sign Comments in Flowsheets](https://www.jmir.org/2021/3/e22806)</span>
+> Zhijun Yin, Yongtai Liu, Allison McCoy, Bradley Malin, Patricia Sengstack
+> <br>Journal of Medical Internet Research (JMIR). 2021 Mar 4;23(3):e22806. (Impact Factor: 5.030)
+
 <span style="font-family:Papyrus; font-size:1.2em;">[J7] [Health and Kinship Matter: Learning About Direct-To-Consumer Genetic Testing User Experiences via Online Discussions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238644)</span>
 > Zhijun Yin, Lijun Song,Ellen W. Clayton,Bradley A. Malin
 > <br>PLOS ONE. PLoS ONE 15(9): e0238644.(Impact Factor: 2.870)
@@ -91,10 +96,14 @@ from Online Breast Cancer Forum](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/pa
 > Zhijun Yin, Jeremy Warner, Lijun Song, Pei-Yun Hsueh, Ching-Hua Chen, Bradley Malin
 > <br>in Social Web and Health Research, pp. 233-257, Springer, Cham, 2019
 
-<!----------- Papers Under Review ----------->
+<!----------- Papers Under Review 
 
 <span style="font-family:Papyrus; font-size:1.5em;"><br>Papers Under Review</span>
+
+
 
 <span style="font-family:Papyrus; font-size:1.2em;">[JS1] The Contribution of Free Text Comments to the Burden of Documentation: An Assessment and Analysis of Vital Signs Comments in Flowsheets</span>
 > Zhijun Yin, Yongtai Liu, Allison McCoy, Bradley Malin, Patricia Sengstack
 > <br>submitted to JMIR, under second-round review, October, 2020
+
+----------->
